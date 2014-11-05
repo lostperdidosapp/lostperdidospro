@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lost Perdidos</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Menu</string>
+    <string name="drawer_close">Menu</string>
+    <string name="reportar">Reportar Perro Perdido</string>
+    <string name="buscar">Buscar Perro Perdido</string>
+    <string name="gestor">Gestor</string>
+    <string name="iniciar">Iniciar/Cerrar Sesión</string>
+    <string name="home">Inicio</string>
+    <string name="username">Usuario</string>
+    <string name="already_have_an_account_label">already_have_an_account_label</string>
+    <string name="password_label">password_label</string>
+    <string name="sign_in_label">sign_in_label</string>
+    <string name="dont_have_an_account_label">dont_have_an_account_label</string>
+    <string name="sign_up_label">sign_up_label</string>
+    
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Iniciar Sesión</item>
+        <item >Buscar</item>
+        <item >Reportar</item>
+        <item >Gestor</item>
+        <item >What\'s Hot</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_launcheriniciar</item>
+        <item>@drawable/ic_launcherbuscar</item>
+        <item>@drawable/ic_launcherreportar</item>
+        <item>@drawable/ic_launchergestor</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>

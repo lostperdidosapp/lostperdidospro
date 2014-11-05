@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string-array name="RazaPerro">
+	    <item>-- SELECCIONE LA RAZA DEL PERRO --</item>
+		<item>Beagle</item>
+		<item>Labrador</item>
+		<item>Shitzu</item>
+		<item>San Bernardo</item>
+		<item>Pastor Aleman</item>
+		<item>Golden Retriever</item>
+		
+	</string-array>
+	</resources>
